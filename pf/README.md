@@ -1,4 +1,5 @@
 
+- Example
 ```
 #### DENY
 table <DENY_UNKNOWN> const file "/etc/pf/spam_unknown_db.conf"
