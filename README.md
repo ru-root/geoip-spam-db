@@ -1,2 +1,5 @@
-# geoip-spam-db
-Blocking of international spam botnets
+# Spam Database
+
+- Blocking of international spam botnets
+
+Block IP range from countries with GeoIP
